@@ -1,0 +1,7 @@
+apikey.txt
+*.db
+*.png
+data/
+.ipynb_checkpoints
+__*
+*.json
